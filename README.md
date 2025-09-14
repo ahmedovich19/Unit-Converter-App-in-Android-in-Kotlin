@@ -1,7 +1,6 @@
 # Unit Converter App
 
-![App Screenshot](UnitConverterScreen.png)
-<p align="center"><img align="center" width="700" src="./UnitConverterScreen.png"/></p>
+<p align="center"><img align="center" height="500" width="700" src="./UnitConverterScreen.png"/></p>
 ## Description
 
 This is a simple Android unit converter app built using **Kotlin** and **Jetpack Compose**. It allows users to convert length units such as meters, centimeters, feet, and millimeters. The app features a text input field for entering the value (defaults to meters) and two dropdown menus: one to select the "from" unit and another for the "to" unit. The conversion happens automatically upon selection or input change.
